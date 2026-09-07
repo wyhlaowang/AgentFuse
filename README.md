@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/1931436f-1f8e-4d25-8581-1e56255d4300
+
 # AgentFuse
 🔥 [ACM MM 2026] Official code for "Faster and Better: Reinforced Collaborative Distillation and Self-Learning for Infrared-Visible Image Fusion"
 
@@ -46,7 +50,7 @@ pip install -r requirements.txt
 The fused results will be saved in the ```./results/``` folder. 
 
 ## 🎬 Demo
-[▶ 查看演示视频](./results/fusion_video.mp4)
+[▶ 查看演示视频]([./results/fusion_video.mp4](https://github.com/user-attachments/assets/1211e73d-288e-4cc9-bade-06a22775057f)
 
 From left to right are the infrared image, visible image, and fused image.
 
